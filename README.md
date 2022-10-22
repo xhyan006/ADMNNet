@@ -1,6 +1,6 @@
 # ADMNNet
 Attention-Guided Dynamic Multi-Branch Neural Network for Underwater Image Enhancement    
-This includes the model code of our ADMNNet. (pyTorch Version).
+This includes the model code of our ADMNNet. (pyTorch Version>=1.6.0).
 If you use our code, please cite our paper and hit the star at the top-right corner. Thanks!   
 @article{YAN2022110041,  
 title = {Attention-guided dynamic multi-branch neural network for underwater image enhancement},   
