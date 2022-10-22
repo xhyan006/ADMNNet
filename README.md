@@ -1,6 +1,6 @@
 # ADMNNet
 ADMNNet for Underwater image enhancement  
-Attention-Guided Dynamic Multi-Branch Neural Network for Underwater Image Enhancement 
+Attention-Guided Dynamic Multi-Branch Neural Network for Underwater Image Enhancement    
 If you use our code, please cite our paper and hit the star at the top-right corner. Thanks!   
 @article{YAN2022110041,  
 title = {Attention-guided dynamic multi-branch neural network for underwater image enhancement},   
